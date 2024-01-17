@@ -10,8 +10,4 @@ class Constant {
   static const urlGetOperatorByCountry = 'gateway/operators/';
   static const urlMakePayement = 'gateway/merchants/make_payment';
   static const urlGetPayementStatus = 'gateway/merchants/payment/';
-
-  static const paymentMethodMobileMoney = 'online';
-  static const paymentMethodSolde = 'balance';
-  static const paymentMethodCagnote = 'jackpot';
 }
